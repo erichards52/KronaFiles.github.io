@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 name: Krona Output Page
 markdown: kramdown
+gems:
+  - jekyll-sitemap
